@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kuldeepsingh/Documents/projects/community/pycon/kedromlflowhooks/kedromlflowhooksdemo/mlruns/0/bcac137795254999b52cfc1494a69c31/artifacts
+end_time: 1597241276705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bcac137795254999b52cfc1494a69c31
+run_uuid: bcac137795254999b52cfc1494a69c31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1597241275983
+status: 3
+tags: []
+user_id: kuldeepsingh
