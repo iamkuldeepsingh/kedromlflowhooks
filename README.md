@@ -8,8 +8,7 @@
 ## We will walk through Hooks related changes needs to be made to Kedro Project
 
 ## Demo Steps
-- Download the repo locally on the system
-``` git clone https://github.com/iamkuldeepsingh/kedromlflowhooks.git ```
+- Download the repo locally on the system ``` git clone https://github.com/iamkuldeepsingh/kedromlflowhooks.git ```
 - Change the Directory to kedromlflowhooksdemo ``` cd kedromlflowhooks/kedromlflowhooksdemo ```
 - Run the Kedro run command ``` kedro run ```
 - Open the MLFlow Browser using command ``` mlflow ui ```
