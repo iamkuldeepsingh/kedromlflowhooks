@@ -1,4 +1,4 @@
-# Repo for Kedro + MLFlow integration with Hooks for PyCon India 2020
+# Repo for Kedro + MLFlow integration with Hooks for PyCon India 2020 CFP https://in.pycon.org/cfp/2020/proposals/kedro-mlflow-an-open-source-integration-with-hooks~bW2Ea
 
 ## Prerequiste Installation (Ideally under Seprate Conda/Virtualenv)
 - Python  3.x
